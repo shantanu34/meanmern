@@ -1,0 +1,24 @@
+{
+  "name": "umbrashia",
+  "version": "1.0.0",
+  "description": "Life Source Of Humans",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log('hello universe');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanu34/meanmern.git"
+  },
+  "keywords": [
+    "mean",
+    "mern",
+    "typescript"
+  ],
+  "author": "shantanu sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanu34/meanmern/issues"
+  },
+  "homepage": "https://github.com/shantanu34/meanmern#readme"
+}
